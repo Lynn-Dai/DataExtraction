@@ -1,0 +1,14 @@
+{
+    "src/main/java/run/halo/app/controller/admin/api/BackupController.java":[
+        "run.halo.app.service.BackupService.BackupType.JSON_DATA",
+        "run.halo.app.service.BackupService.BackupType.MARKDOWN",
+        "run.halo.app.service.BackupService.BackupType.WHOLE_SITE"
+    ],
+    "src/main/java/run/halo/app/theme/GitThemeUpdater.java":[
+        "run.halo.app.theme.ThemeUpdater.backup",
+        "run.halo.app.theme.ThemeUpdater.restore"
+    ],
+    "src/main/java/run/halo/app/theme/ThemeFileScanner.java":[
+        "run.halo.app.service.ThemeService.CAN_EDIT_SUFFIX"
+    ]
+}
